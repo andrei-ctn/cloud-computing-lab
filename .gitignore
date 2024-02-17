@@ -1,0 +1,19 @@
+# Compiled Python files
+*.pyc
+
+# Python bytecode cache
+__pycache__
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (keep raw data, ignore processed)
+data/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
